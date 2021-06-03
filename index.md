@@ -10,7 +10,6 @@ Whenever you drink water you are commiting death!
 
 Death is defined as the action or fact of dying or being killed; the end of the life of a person or organism.
 
-```markdown
 
 # #WaterIsNotTasty
 Water is the same as:
