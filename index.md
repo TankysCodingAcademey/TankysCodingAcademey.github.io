@@ -20,10 +20,6 @@ Water is the same as:
 1. Numbered
 2. List
 
-<```**Bold** and _Italic_ and `Code` text>
-
-```[Link](url) and ![Image](src)
-```
 
 For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 
@@ -31,6 +27,7 @@ For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 
 ### Support or Contact
 [Lifeline](https://www.lifeline.org.au/) - 13 11 14
+
 
 ### More to Come
 
