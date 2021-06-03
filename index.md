@@ -36,4 +36,7 @@ For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 ##### More to Come
 
 
+<script data-ad-client="ca-pub-6718563740195415" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
 ###### This Page Uses Themes from Jerkyll
