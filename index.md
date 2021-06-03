@@ -1,6 +1,6 @@
 ## Welcome to Water Is Not Tasty, The Official Page to Fight The Water Is Tasty Movement
-**WARNING!**
-**THIS WEBPAGE MENTIONS DEATH AND SELF-HARM**
+  **WARNING!**
+  **THIS WEBPAGE MENTIONS DEATH AND SELF-HARM**
 
 
 Water is not tasty.
@@ -27,8 +27,8 @@ For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 
 
 ### Support or Contact
-[Lifeline](https://www.lifeline.org.au/) - 13 11 14
-[Australian Centre for Grief and Bereavement](https://www.grief.org.au/)
+  [Lifeline](https://www.lifeline.org.au/) - 13 11 14
+  [Australian Centre for Grief and Bereavement](https://www.grief.org.au/)
 
 
 ### More to Come
