@@ -18,14 +18,13 @@ Water is the same as:
 1. Numbered
 2. List
 
-`**Bold** and _Italic_ and `Code` text
+```**Bold** and _Italic_ and `Code` text
 
-`[Link](url) and ![Image](src)
+```[Link](url) and ![Image](src)
 ```
 
 For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 
-### This Page Uses Themes from Jerkyll
 
 
 ### Support or Contact
