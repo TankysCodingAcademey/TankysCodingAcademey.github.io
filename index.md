@@ -28,7 +28,7 @@ For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 
 
 
-#### Support or Contact
+### Support or Contact
 [Lifeline](https://www.lifeline.org.au/) - 13 11 14
 [Australian Centre for Grief and Bereavement](https://www.grief.org.au/)
 
@@ -36,4 +36,4 @@ For more details see [Wiki Death](https://en.wikipedia.org/wiki/Death).
 ##### More to Come
 
 
-####### This Page Uses Themes from Jerkyll
+###### This Page Uses Themes from Jerkyll
