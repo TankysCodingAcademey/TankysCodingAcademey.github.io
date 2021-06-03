@@ -1,6 +1,6 @@
 ## Welcome to Water Is Not Tasty, The Official Page to Fight The Water Is Tasty Movement
 
-<br>
+
 
 Water is not tasty.
 
@@ -20,7 +20,7 @@ Water is the same as:
 1. Numbered
 2. List
 
-<!-- ```**Bold** and _Italic_ and `Code` text -->
+<```**Bold** and _Italic_ and `Code` text>
 
 ```[Link](url) and ![Image](src)
 ```
